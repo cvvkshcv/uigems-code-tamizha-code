@@ -7,8 +7,8 @@
 
 This is a simple CRUD operation using FireStore db.
 We are going to learn:
-- How to create new React app
-- Adding bootstrap & bootstrap icon
+- How to create new React app using yarn
+- Adding bootstrap & bootstrap icon to react app
 - How to add firebase SDK to react app
 - CRUD operations
 - Realtime sync with Database using snapshot
